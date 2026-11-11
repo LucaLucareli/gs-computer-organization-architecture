@@ -1,4 +1,4 @@
-# 🦯 Bengala Inteligente – CitizenTech para Acessibilidade Urbana
+# Bengala Inteligente – CitizenTech para Acessibilidade Urbana
 
 > **FIAP – Global Solution (GS 2026.2)**  
 > **Disciplina:** Computer Organization and Architecture  
@@ -7,7 +7,7 @@
 
 ---
 
-## 👥 Identificação dos Integrantes
+## Identificação dos Integrantes
 
 | Nome Completo | RM |
 | :--- | :--- |
@@ -17,24 +17,24 @@
 
 ---
 
-## 🔗 Links de Entrega
+## Links de Entrega
 
-* 🌐 **Simulação no Wokwi:** [Clique aqui para acessar o projeto no Wokwi](https://wokwi.com/projects/480152768068327425)
-* 🎥 **Vídeo Demonstrativo (YouTube):** [Clique aqui para assistir à apresentação no YouTube](INSERIR_LINK_DO_YOUTUBE_AQUI)
+* **Simulação no Wokwi:** [Clique aqui para acessar o projeto no Wokwi](https://wokwi.com/projects/480152768068327425)
+* **Vídeo Demonstrativo (YouTube):** [Clique aqui para assistir à apresentação no YouTube](INSERIR_LINK_DO_YOUTUBE_AQUI)
 
 ---
 
-## 📌 Sumário
+## Sumário
 1. [Etapa 1 – Identificação e Compreensão do Problema](#-etapa-1--identificação-e-compreensão-do-problema)
 2. [Etapa 2 – Planejamento da Solução e Arquitetura](#-etapa-2--planejamento-da-solução-e-arquitetura)
 3. [Etapa 3 – Construção do Protótipo e Hardware](#-etapa-3--construção-do-protótipo-e-hardware)
 4. [Etapa 4 – Demonstração e Como Executar](#-etapa-4--demonstração-e-como-executar)
-5. [📁 Estrutura de Arquivos do Projeto](#-estrutura-de-arquivos-do-projeto)
-6. [📋 Critérios de Avaliação Atendidos](#-critérios-de-avaliação-atendidos)
+5. [Estrutura de Arquivos do Projeto](#-estrutura-de-arquivos-do-projeto)
+6. [Critérios de Avaliação Atendidos](#-critérios-de-avaliação-atendidos)
 
 ---
 
-## 🏙️ Etapa 1 – Identificação e Compreensão do Problema
+## Etapa 1 – Identificação e Compreensão do Problema
 
 ### 1.1 O Problema no Cotidiano Urbano
 No planejamento urbano atual, as calçadas e vias públicas apresentam diversos obstáculos que comprometem o direito fundamental de ir e vir com segurança. Embora as bengalas longas tradicionais sejam instrumentos essenciais para a locomoção de deficientes visuais, elas possuem uma limitação crítica: **detectam exclusivamente obstáculos situados ao nível do solo**.
@@ -57,7 +57,7 @@ O conceito de **CitizenTech** baseia-se no uso da tecnologia e da computação f
 
 ---
 
-## 🧠 Etapa 2 – Planejamento da Solução e Arquitetura
+## Etapa 2 – Planejamento da Solução e Arquitetura
 
 ### 2.1 Descrição da Solução
 A **Bengala Inteligente** é um sistema embarcado que realiza o escaneamento frontal contínuo do ambiente. Através de pulsos ultrassônicos, o sistema calcula a distância de aproximação de obstáculos e notifica o usuário em tempo hábil através de **estímulos multissensoriais dinâmicos**:
@@ -94,7 +94,7 @@ O microcontrolador RP2040 (Raspberry Pi Pico) atua como o núcleo do processamen
 
 ---
 
-## 🔌 Etapa 3 – Construção do Protótipo e Hardware
+## Etapa 3 – Construção do Protótipo e Hardware
 
 ### 3.1 Lista de Componentes
 
@@ -137,7 +137,7 @@ O microcontrolador RP2040 (Raspberry Pi Pico) atua como o núcleo do processamen
 
 ---
 
-## 🎮 Etapa 4 – Demonstração e Como Executar
+## Etapa 4 – Demonstração e Como Executar
 
 ### 4.1 Execução Online via Wokwi
 1. Abra o link do projeto no [Wokwi](https://wokwi.com/projects/480152768068327425).
@@ -165,7 +165,7 @@ Conforme os critérios de avaliação da atividade, o vídeo deve conter:
 
 ---
 
-## 📁 Estrutura de Arquivos do Projeto
+## Estrutura de Arquivos do Projeto
 
 A organização dos arquivos segue as melhores práticas para projetos de sistemas embarcados e repositórios acadêmicos:
 

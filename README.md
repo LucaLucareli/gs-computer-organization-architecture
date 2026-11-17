@@ -20,7 +20,7 @@
 ## Links de Entrega
 
 * **Simulação no Wokwi:** [Clique aqui para acessar o projeto no Wokwi](https://wokwi.com/projects/480152768068327425)
-* **Vídeo Demonstrativo (YouTube):** [Clique aqui para assistir à apresentação no YouTube](INSERIR_LINK_DO_YOUTUBE_AQUI)
+* **Vídeo Demonstrativo (YouTube):** [Clique aqui para assistir à apresentação no YouTube](https://youtu.be/k7c71zNiqkQ)
 
 ---
 
